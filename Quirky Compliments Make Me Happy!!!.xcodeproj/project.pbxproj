@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9989CDD82A46A0A70064C061 /* Quirky_Compliments_Make_Me_Happy___App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9989CDD72A46A0A70064C061 /* Quirky_Compliments_Make_Me_Happy___App.swift */; };
+		9989CDDA2A46A0A70064C061 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9989CDD92A46A0A70064C061 /* ContentView.swift */; };
+		9989CDDC2A46A0AE0064C061 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9989CDDB2A46A0AE0064C061 /* Assets.xcassets */; };
+		9989CDDF2A46A0AE0064C061 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9989CDDE2A46A0AE0064C061 /* Preview Assets.xcassets */; };
+		9989CDE92A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9989CDE82A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___Tests.swift */; };
+		9989CDF32A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9989CDF22A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITests.swift */; };
+		9989CDF52A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9989CDF42A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9989CDE52A46A0AE0064C061 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9989CDCC2A46A0A70064C061 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9989CDD32A46A0A70064C061;
+			remoteInfo = "Quirky Compliments Make Me Happy!!!";
+		};
+		9989CDEF2A46A0AE0064C061 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9989CDCC2A46A0A70064C061 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9989CDD32A46A0A70064C061;
+			remoteInfo = "Quirky Compliments Make Me Happy!!!";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9989CDD42A46A0A70064C061 /* Quirky Compliments Make Me Happy!!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quirky Compliments Make Me Happy!!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9989CDD72A46A0A70064C061 /* Quirky_Compliments_Make_Me_Happy___App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quirky_Compliments_Make_Me_Happy___App.swift"; sourceTree = "<group>"; };
+		9989CDD92A46A0A70064C061 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9989CDDB2A46A0AE0064C061 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9989CDDE2A46A0AE0064C061 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9989CDE42A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quirky Compliments Make Me Happy!!!Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9989CDE82A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quirky_Compliments_Make_Me_Happy___Tests.swift"; sourceTree = "<group>"; };
+		9989CDEE2A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quirky Compliments Make Me Happy!!!UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9989CDF22A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quirky_Compliments_Make_Me_Happy___UITests.swift"; sourceTree = "<group>"; };
+		9989CDF42A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quirky_Compliments_Make_Me_Happy___UITestsLaunchTests.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9989CDD12A46A0A70064C061 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9989CDE12A46A0AE0064C061 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9989CDEB2A46A0AE0064C061 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9989CDCB2A46A0A70064C061 = {
+			isa = PBXGroup;
+			children = (
+				9989CDD62A46A0A70064C061 /* Quirky Compliments Make Me Happy!!! */,
+				9989CDE72A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests */,
+				9989CDF12A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests */,
+				9989CDD52A46A0A70064C061 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9989CDD52A46A0A70064C061 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9989CDD42A46A0A70064C061 /* Quirky Compliments Make Me Happy!!!.app */,
+				9989CDE42A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests.xctest */,
+				9989CDEE2A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9989CDD62A46A0A70064C061 /* Quirky Compliments Make Me Happy!!! */ = {
+			isa = PBXGroup;
+			children = (
+				9989CDD72A46A0A70064C061 /* Quirky_Compliments_Make_Me_Happy___App.swift */,
+				9989CDD92A46A0A70064C061 /* ContentView.swift */,
+				9989CDDB2A46A0AE0064C061 /* Assets.xcassets */,
+				9989CDDD2A46A0AE0064C061 /* Preview Content */,
+			);
+			path = "Quirky Compliments Make Me Happy!!!";
+			sourceTree = "<group>";
+		};
+		9989CDDD2A46A0AE0064C061 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9989CDDE2A46A0AE0064C061 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9989CDE72A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests */ = {
+			isa = PBXGroup;
+			children = (
+				9989CDE82A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___Tests.swift */,
+			);
+			path = "Quirky Compliments Make Me Happy!!!Tests";
+			sourceTree = "<group>";
+		};
+		9989CDF12A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests */ = {
+			isa = PBXGroup;
+			children = (
+				9989CDF22A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITests.swift */,
+				9989CDF42A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITestsLaunchTests.swift */,
+			);
+			path = "Quirky Compliments Make Me Happy!!!UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9989CDD32A46A0A70064C061 /* Quirky Compliments Make Me Happy!!! */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9989CDF82A46A0AE0064C061 /* Build configuration list for PBXNativeTarget "Quirky Compliments Make Me Happy!!!" */;
+			buildPhases = (
+				9989CDD02A46A0A70064C061 /* Sources */,
+				9989CDD12A46A0A70064C061 /* Frameworks */,
+				9989CDD22A46A0A70064C061 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Quirky Compliments Make Me Happy!!!";
+			productName = "Quirky Compliments Make Me Happy!!!";
+			productReference = 9989CDD42A46A0A70064C061 /* Quirky Compliments Make Me Happy!!!.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9989CDE32A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9989CDFB2A46A0AE0064C061 /* Build configuration list for PBXNativeTarget "Quirky Compliments Make Me Happy!!!Tests" */;
+			buildPhases = (
+				9989CDE02A46A0AE0064C061 /* Sources */,
+				9989CDE12A46A0AE0064C061 /* Frameworks */,
+				9989CDE22A46A0AE0064C061 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9989CDE62A46A0AE0064C061 /* PBXTargetDependency */,
+			);
+			name = "Quirky Compliments Make Me Happy!!!Tests";
+			productName = "Quirky Compliments Make Me Happy!!!Tests";
+			productReference = 9989CDE42A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9989CDED2A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9989CDFE2A46A0AE0064C061 /* Build configuration list for PBXNativeTarget "Quirky Compliments Make Me Happy!!!UITests" */;
+			buildPhases = (
+				9989CDEA2A46A0AE0064C061 /* Sources */,
+				9989CDEB2A46A0AE0064C061 /* Frameworks */,
+				9989CDEC2A46A0AE0064C061 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9989CDF02A46A0AE0064C061 /* PBXTargetDependency */,
+			);
+			name = "Quirky Compliments Make Me Happy!!!UITests";
+			productName = "Quirky Compliments Make Me Happy!!!UITests";
+			productReference = 9989CDEE2A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9989CDCC2A46A0A70064C061 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					9989CDD32A46A0A70064C061 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					9989CDE32A46A0AE0064C061 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 9989CDD32A46A0A70064C061;
+					};
+					9989CDED2A46A0AE0064C061 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 9989CDD32A46A0A70064C061;
+					};
+				};
+			};
+			buildConfigurationList = 9989CDCF2A46A0A70064C061 /* Build configuration list for PBXProject "Quirky Compliments Make Me Happy!!!" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9989CDCB2A46A0A70064C061;
+			productRefGroup = 9989CDD52A46A0A70064C061 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9989CDD32A46A0A70064C061 /* Quirky Compliments Make Me Happy!!! */,
+				9989CDE32A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!Tests */,
+				9989CDED2A46A0AE0064C061 /* Quirky Compliments Make Me Happy!!!UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9989CDD22A46A0A70064C061 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9989CDDF2A46A0AE0064C061 /* Preview Assets.xcassets in Resources */,
+				9989CDDC2A46A0AE0064C061 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9989CDE22A46A0AE0064C061 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9989CDEC2A46A0AE0064C061 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9989CDD02A46A0A70064C061 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9989CDDA2A46A0A70064C061 /* ContentView.swift in Sources */,
+				9989CDD82A46A0A70064C061 /* Quirky_Compliments_Make_Me_Happy___App.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9989CDE02A46A0AE0064C061 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9989CDE92A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9989CDEA2A46A0AE0064C061 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9989CDF52A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITestsLaunchTests.swift in Sources */,
+				9989CDF32A46A0AE0064C061 /* Quirky_Compliments_Make_Me_Happy___UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9989CDE62A46A0AE0064C061 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9989CDD32A46A0A70064C061 /* Quirky Compliments Make Me Happy!!! */;
+			targetProxy = 9989CDE52A46A0AE0064C061 /* PBXContainerItemProxy */;
+		};
+		9989CDF02A46A0AE0064C061 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9989CDD32A46A0A70064C061 /* Quirky Compliments Make Me Happy!!! */;
+			targetProxy = 9989CDEF2A46A0AE0064C061 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9989CDF62A46A0AE0064C061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9989CDF72A46A0AE0064C061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9989CDF92A46A0AE0064C061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Quirky Compliments Make Me Happy!!!/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Toh-Jia-Xuan.Quirky-Compliments-Make-Me-Happy---";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9989CDFA2A46A0AE0064C061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Quirky Compliments Make Me Happy!!!/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Toh-Jia-Xuan.Quirky-Compliments-Make-Me-Happy---";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9989CDFC2A46A0AE0064C061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Toh-Jia-Xuan.Quirky-Compliments-Make-Me-Happy---Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Quirky Compliments Make Me Happy!!!.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Quirky Compliments Make Me Happy!!!";
+			};
+			name = Debug;
+		};
+		9989CDFD2A46A0AE0064C061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Toh-Jia-Xuan.Quirky-Compliments-Make-Me-Happy---Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Quirky Compliments Make Me Happy!!!.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Quirky Compliments Make Me Happy!!!";
+			};
+			name = Release;
+		};
+		9989CDFF2A46A0AE0064C061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Toh-Jia-Xuan.Quirky-Compliments-Make-Me-Happy---UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Quirky Compliments Make Me Happy!!!";
+			};
+			name = Debug;
+		};
+		9989CE002A46A0AE0064C061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Toh-Jia-Xuan.Quirky-Compliments-Make-Me-Happy---UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Quirky Compliments Make Me Happy!!!";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9989CDCF2A46A0A70064C061 /* Build configuration list for PBXProject "Quirky Compliments Make Me Happy!!!" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9989CDF62A46A0AE0064C061 /* Debug */,
+				9989CDF72A46A0AE0064C061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9989CDF82A46A0AE0064C061 /* Build configuration list for PBXNativeTarget "Quirky Compliments Make Me Happy!!!" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9989CDF92A46A0AE0064C061 /* Debug */,
+				9989CDFA2A46A0AE0064C061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9989CDFB2A46A0AE0064C061 /* Build configuration list for PBXNativeTarget "Quirky Compliments Make Me Happy!!!Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9989CDFC2A46A0AE0064C061 /* Debug */,
+				9989CDFD2A46A0AE0064C061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9989CDFE2A46A0AE0064C061 /* Build configuration list for PBXNativeTarget "Quirky Compliments Make Me Happy!!!UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9989CDFF2A46A0AE0064C061 /* Debug */,
+				9989CE002A46A0AE0064C061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9989CDCC2A46A0A70064C061 /* Project object */;
+}
